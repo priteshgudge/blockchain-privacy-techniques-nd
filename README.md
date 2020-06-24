@@ -13,3 +13,6 @@ Blockchain privacy techniques code examples
 ## Ring Signature
 [Linkable Ring Signatures](https://github.com/MaiaVictor/lrs/blob/master/EXAMPLE_JS.md)
 ![Ring Sign Img](/images/ring_sign.png)
+
+## Differential Privacy
+![Differential Privacy Demo](/images/differential.png)
