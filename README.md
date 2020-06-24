@@ -17,3 +17,6 @@ Blockchain privacy techniques code examples
 ## Differential Privacy
 [Differential Privacy](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?gi=1ff73ee40bcc)
 ![Differential Privacy Demo](/images/differential2.png)
+
+## ZKSNARKS
+[ZKSNARKS Ethereum](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
