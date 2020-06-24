@@ -16,4 +16,4 @@ Blockchain privacy techniques code examples
 
 ## Differential Privacy
 [Differential Privacy](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?gi=1ff73ee40bcc)
-![Differential Privacy Demo](/images/differential.png)
+![Differential Privacy Demo](/images/differential2.png)
