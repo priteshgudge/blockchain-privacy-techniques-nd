@@ -15,4 +15,5 @@ Blockchain privacy techniques code examples
 ![Ring Sign Img](/images/ring_sign.png)
 
 ## Differential Privacy
+[Differential Privacy](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?gi=1ff73ee40bcc)
 ![Differential Privacy Demo](/images/differential.png)
